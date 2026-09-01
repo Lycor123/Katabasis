@@ -1,0 +1,38 @@
+USA = {
+    color = rgb { 67  123  237 }
+    color_ui = rgb { 67  123  237 }
+}
+MTA = {
+    color = rgb { 179 255 241 }
+    color_ui = rgb { 179 255 241 }
+}
+DAK = {
+    color = rgb { 54  171  125 }
+    color_ui = rgb { 54  171  125 }
+}
+MIN = {
+    color = rgb { 112  250  255 }
+    color_ui = rgb { 112  250  255 }
+}
+OHI = {
+    color = rgb { 185  39  42 }
+    color_ui = rgb { 185  39  42 }
+}
+WIS = {
+    color = rgb { 71  75  255 }
+    color_ui = rgb { 71  75  255 }
+}
+
+IND = {
+    color = rgb { 51  48  161 }
+    color_ui = rgb { 51  48  161 }
+}
+
+NJE = {
+    color = rgb { 255  225  163 }
+    color_ui = rgb { 255  225  163 }
+}
+HAW = {
+    color = rgb { 100  206  166 }
+    color_ui = rgb { 100  206  166 }
+}

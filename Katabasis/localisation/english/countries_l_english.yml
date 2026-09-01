@@ -1,0 +1,36 @@
+﻿l_english:
+ USA: "United States of America"
+ USA_DEF: "America"
+ USA_ADJ: "American"
+
+ MTA: "Montana"
+ MTA_DEF: "Montana"
+ MTA_ADJ: "Montanan"
+
+ DAK: "Dakota"
+ DAK_DEF: "Dakota"
+ DAK_ADJ: "Dakotan"
+ 
+ MIN: "Minnesota"
+ MIN_DEF: "Minnesota"
+ MIN_ADJ: "Minnesotan"
+
+ OHI: "Ohio"
+ OHI_DEF: "Ohio"
+ OHI_ADJ: "Ohioan"
+
+ WIS: "Wisconsin"
+ WIS_DEF: "Wisconsin"
+ WIS_ADJ: "Wisconsinites"
+
+ IND: "Indiana"
+ IND_DEF: "Indiana"
+ IND_ADJ: "Indianan"
+
+ NJE: "New Jersey"
+ NJE_DEF: "New Jersey"
+ NJE_ADJ: "New Jerseyan"
+
+ HAW: "Hawaii"
+ HAW_DEF: "Hawaii"
+ HAW_ADJ: "Hawaiian"
