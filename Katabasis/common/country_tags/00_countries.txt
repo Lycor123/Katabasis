@@ -7,3 +7,7 @@ WIS = "countries/Wisconsin.txt"
 IND = "countries/Indiana.txt"
 NJE = "countries/New Jersey.txt"
 HAW = "countries/Hawaii.txt"
+<<<<<<< Updated upstream
+=======
+USD = "countries/Dixie.txt"
+>>>>>>> Stashed changes
