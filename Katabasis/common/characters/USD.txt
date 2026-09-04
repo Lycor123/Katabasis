@@ -1,0 +1,18 @@
+characters = {
+
+    USD_george_wallace = {
+
+        name = USD_george_wallace
+        
+        portraits = {
+            civilian = {
+                large = GFX_portrait_george_wallace
+            }
+        }
+
+        country_leader = {
+            ideology = herrenvolk_democracy
+            expire = "1999.1.1"
+        }
+    }
+}
