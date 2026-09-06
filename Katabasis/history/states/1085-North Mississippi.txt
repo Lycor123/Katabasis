@@ -1,0 +1,15 @@
+state={
+	id=1085
+	name="STATE_1085"
+	state_category = rural
+	history = {
+		owner = USD
+		add_core_of = USD
+	}
+	provinces={
+		4510 7464 8110 10410 10753 11717 12328 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

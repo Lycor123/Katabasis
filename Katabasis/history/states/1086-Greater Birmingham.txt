@@ -1,0 +1,20 @@
+state={
+	id=1086
+	name="STATE_1086"
+	state_category = city
+
+	history = {
+		owner = USD
+		add_core_of = USD
+		victory_points = {
+			12735 1
+		}
+	}
+
+	provinces={
+		7422 12735 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

@@ -1,0 +1,23 @@
+state={
+	id=1082
+	name="STATE_1082"
+	state_category = city
+	provinces={
+		4535 7552 12398 
+	}
+
+	history = {
+		owner = USD
+		add_core_of = USD
+		victory_points = {
+			7552 10 
+		}
+	}
+
+
+
+
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}
