@@ -1,7 +1,7 @@
 state={
-	id=1087
-	name="STATE_1087"
-	state_category = rural
+	id=1089
+	name="STATE_1089"
+	state_category = city
 
 	history = {
 		owner = USD
@@ -9,7 +9,7 @@ state={
 	}
 
 	provinces={
-		492 860 4594 4756 5059 11509 12803 
+		1019 1077 1132 1163 4168 6943 7045 7083 9876 10051 11783 12054 
 	}
 	manpower=0
 	buildings_max_level_factor=1
