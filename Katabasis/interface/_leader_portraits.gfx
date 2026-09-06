@@ -1,0 +1,6 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_portrait_george_wallace"
+        texturefile = "gfx/leaders/USD/GeorgeWallace.tga"
+    }
+}

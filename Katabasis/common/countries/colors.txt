@@ -23,7 +23,7 @@ OHI = {
     color_ui = rgb { 185  39  42 }
 }
 
-WIS = {
+WSC = {
     color = rgb { 71  75  255 }
     color_ui = rgb { 71  75  255 }
 }
@@ -46,4 +46,14 @@ HAW = {
 USD = {
     color = rgb { 44  74  160 }
     color_ui = rgb { 44  74  160 }
+}
+
+BLA = {
+    color = rgb { 58  69  61 }
+    color_ui = rgb { 58  69  61 }
+}
+
+NOI = {
+    color = rgb { 105  175  53 }
+    color_ui = rgb { 105  175  53 }
 }

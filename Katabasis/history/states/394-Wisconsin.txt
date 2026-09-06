@@ -10,12 +10,12 @@ state={
 	}
 
 	history={
-		owner = WIS
+		owner = WSC
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 3
 		}
-		add_core_of = WIS
+		add_core_of = WSC
 		victory_points = {
 			12357 5 
 		}

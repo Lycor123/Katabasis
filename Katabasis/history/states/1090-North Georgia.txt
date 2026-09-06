@@ -1,23 +1,17 @@
 state={
-	id=1082
-	name="STATE_1082"
+	id=1090
+	name="STATE_1090"
 	state_category = city
-	provinces={
-		4535 7552 12398 
-	}
-
 	history = {
-		owner = BLA
-		add_core_of = BLA
+		owner = USD
 		add_core_of = USD
 		victory_points = {
-			7552 10 
+			12384
 		}
 	}
-
-
-
-
+	provinces={
+		638 968 5090 7118 9949 9996 10394 12384 
+	}
 	manpower=0
 	buildings_max_level_factor=1
 	local_supplies=0

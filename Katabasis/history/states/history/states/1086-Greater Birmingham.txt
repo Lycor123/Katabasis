@@ -1,14 +1,10 @@
-
 state={
-	id=367
-	name="STATE_367"
-	resources={
-		coal=8
-	}
+	id=1086
+	name="STATE_1086"
 	provinces={
-		7480 7640 10520 11942 
+		1587 4622 7422 10192 12735 
 	}
-	manpower=2646247
+	manpower=0
 	buildings_max_level_factor=1
 	state_category=city
 	local_supplies=0

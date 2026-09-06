@@ -1,17 +1,11 @@
 state={
 	id=1087
 	name="STATE_1087"
-	state_category = rural
-
-	history = {
-		owner = USD
-		add_core_of = USD
-	}
-
 	provinces={
 		492 860 4594 4756 5059 11509 12803 
 	}
 	manpower=0
 	buildings_max_level_factor=1
+	state_category=rural
 	local_supplies=0
 }

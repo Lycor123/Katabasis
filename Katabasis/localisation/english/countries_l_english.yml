@@ -19,9 +19,9 @@
  OHI_DEF: "Ohio"
  OHI_ADJ: "Ohioan"
 
- WIS: "Wisconsin"
- WIS_DEF: "Wisconsin"
- WIS_ADJ: "Wisconsinites"
+ WSC: "Wisconsin"
+ WSC_DEF: "Wisconsin"
+ WSC_ADJ: "Wisconsinites"
 
  IND: "Indiana"
  IND_DEF: "Indiana"
@@ -38,3 +38,12 @@
  USD: "United States of Dixie"
  USD_DEF: "Dixieland"
  USD_ADJ: "Southerner"
+
+ BLA: "Black Panthers"
+ BLA_DEF: "Black Panthers"
+ BLA_ADJ: "Black Panther"
+
+ NOI: "Nation of Islam"
+ NOI_DEF: "Nation of Islam"
+ NOI_ADJ: "Nation of Islam"
+
