@@ -1,0 +1,18 @@
+state={
+	id=1083
+	name="STATE_1083"
+	state_category = pastoral
+
+	history = {
+		owner = USD
+		add_core_of = USD
+	}
+
+
+	provinces={
+		1453 7524 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

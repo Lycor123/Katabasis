@@ -25,10 +25,16 @@ ideologies = {
 			constitutional_monarchy = {
 			}
 
-			semi_constitutional_monarchy = {
+			christian_democracy = {
+				can_be_randomly_selected = no
 			}
 
-			religious_democracy = {
+			islamic_democracy = {
+				can_be_randomly_selected = no
+			}
+
+			buddhist_democracy = {
+				can_be_randomly_selected = no
 			}
 			
 			authoritarian_democracy = {
@@ -127,13 +133,23 @@ ideologies = {
 			}
 
 			posadism = {
+				can_be_randomly_selected = no
 			}
 
 			narcocommunism = {
+				can_be_randomly_selected = no
 			}
 
 			buddhist_socialism = {
-				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+				can_be_randomly_selected = no
+			}
+
+			christian_socialism = {
+				can_be_randomly_selected = no
+			}
+
+			baathism = {
+				can_be_randomly_selected = no
 			}
 
 		}
@@ -193,6 +209,9 @@ ideologies = {
 			esoteric_fascism = {
 			}
 
+			clerical_fascism = {
+			}
+
 			satanic_nazism = {
 			}
 
@@ -205,20 +224,25 @@ ideologies = {
 			nazi_maoism = {
 			}
 
-			integralism = {
+			christian_nationalism = {
+			}
+
+			islamofascism = {
+			}
+
+			salafi_jihadism = {
+			}
+
+			buddhist_nationalism = {
 			}
 
 			nativism = {
 			}
 
-			right_nationalism = {
-			}
-
 			ultranationalism = {
 			}
 
-			emperor_fascism = {
-				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
+			homonationalism = {
 			}
 
 		}
@@ -283,10 +307,16 @@ ideologies = {
 			corporatocracy = {
 			}
 
-			theocracy = {
+			christian_theocracy = {
 			}
 
-			ethnocracy = {
+			islamic_theocracy = {
+			}
+
+			buddhist_theocracy = {
+			}
+
+			nationalism = {
 			}
 
 			technocracy = {
@@ -295,10 +325,13 @@ ideologies = {
 			warlordism = {
 			}
 
-			monarchism = {
+			absolute_monarchy = {
 			}
 
 			colonial_state = {
+			}
+
+			stratocracy = {
 			}
 
 		}

@@ -1,0 +1,14 @@
+state={
+	id=371
+	name="STATE_371"
+	resources={
+		oil=29
+	}
+	provinces={
+		1453 1528 1643 4507 4535 7524 7552 12313 12398 
+	}
+	manpower=2101592
+	buildings_max_level_factor=1
+	state_category=city
+	local_supplies=0
+}
