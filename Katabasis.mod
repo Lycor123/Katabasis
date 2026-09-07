@@ -12,4 +12,4 @@ tags={
 }
 name="Katabasis: 20 Years After The Rapture"
 supported_version="1.19.2.0"
-path="C:/Users/aniru/OneDrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/Katabasis"
+path="mod/Katabasis"
