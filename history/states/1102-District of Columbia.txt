@@ -1,0 +1,18 @@
+state={
+	id=1102
+	name="STATE_1102"
+	state_category = city
+	history = {
+		owner = VIR
+		add_core_of = VIR
+		victory_points = {
+			3957 40 
+		}
+	}
+	provinces={
+		3957 11892 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

@@ -1,0 +1,18 @@
+state={
+	id=1099
+	name="STATE_1099"
+	state_category = metropolis
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = {
+			6732 20 
+		}
+	}
+	provinces={
+		715 718 905 908 3710 3906 6732 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

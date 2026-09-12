@@ -1,0 +1,18 @@
+state={
+	id=1100
+	name="STATE_1100"
+	state_category = megalopolis
+	history = {
+		owner = NYC
+		add_core_of = NYC
+		victory_points = {
+			3878 30.0 
+		}
+	}
+	provinces={
+		859 3878 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

@@ -57,3 +57,63 @@ NOI = {
     color = rgb { 105  175  53 }
     color_ui = rgb { 105  175  53 }
 }
+
+MEM = {
+    color = rgb { 166  35  27 }
+    color_ui = rgb { 166  35  27 }
+}
+
+NYK = {
+    color = rgb { 5  16  157 }
+    color_ui = rgb { 5  16  157 }
+}
+
+NYC = {
+    color = rgb { 255  181  84 }
+    color_ui = rgb { 255  181  84 }
+}
+
+PEN = { 
+    color = rgb { 37 136 217 }
+    color_ui = rgb { 37 136 217 }
+}
+
+VIR = {
+    color = rgb { 255  85  67 }
+    color_ui = rgb { 255  85  67 }
+}
+
+MIC = {
+    color = rgb { 44  11  238 }
+    color_ui = rgb { 44  11  238 }
+}
+
+DET = {
+    color = rgb { 128  145  189 }
+    color_ui = rgb { 128  145  189 }
+}
+
+APP = {
+    color = rgb { 121  93  105 }
+    color_ui = rgb { 121  93  105 }
+}
+
+ASA = {
+    color = rgb { 144  225  254 }
+    color_ui = rgb { 144  225  254 }
+}
+
+SAT = {
+    color = rgb { 250  173  9 }
+    color_ui = rgb { 250  173  9 }
+}
+
+UBC = {
+    color = rgb { 145  149  255 }
+    color_ui = rgb { 145  149  255 }
+}
+
+KNT = {
+    color = rgb { 221  138  36 }
+    color_ui = rgb { 221  138  36 }
+}

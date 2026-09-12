@@ -1,9 +1,10 @@
 state={
 	id=1093
 	name="STATE_1093"
-	state_category = city
+	state_category = large_town
 	history = {
-		owner = USD
+		owner = MEM
+		add_core_of = MEM
 		add_core_of = USD
 		victory_points = {
 			7797 5

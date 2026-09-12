@@ -3,10 +3,11 @@ state={
 	name="STATE_1090"
 	state_category = city
 	history = {
-		owner = USD
+		owner = NOI
+		add_core_of = NOI
 		add_core_of = USD
 		victory_points = {
-			12384
+			12384 10
 		}
 	}
 	provinces={
