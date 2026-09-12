@@ -206,7 +206,7 @@ ideologies = {
 			fascism_ideology = {
 			}
 
-			esoteric_fascism = {
+			esotericism = {
 			}
 
 			clerical_fascism = {
@@ -332,6 +332,9 @@ ideologies = {
 			}
 
 			stratocracy = {
+			}
+
+			accelerationism = {
 			}
 
 		}

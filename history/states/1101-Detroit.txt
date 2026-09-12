@@ -1,0 +1,19 @@
+state={
+	id=1101
+	name="STATE_1101"
+	state_category = metropolis
+	history = {
+		owner = DET
+		add_core_of = DET
+		add_core_of = MIC
+		victory_points = {
+			6710 20 # Detriot
+		}
+	}
+	provinces={
+		6710 11656 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

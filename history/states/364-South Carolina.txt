@@ -4,16 +4,16 @@ state={
 	name="STATE_364"
 	manpower = 1738764
 	
-	state_category = city
+	state_category = town
 
 	history={
-		owner = USD
+		owner = BLA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
 		}
 		add_core_of = USD
-
+		add_core_of = BLA
 	}
 
 	provinces={

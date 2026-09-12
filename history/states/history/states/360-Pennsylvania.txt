@@ -1,0 +1,15 @@
+state={
+	id=360
+	name="STATE_360"
+	resources={
+		steel=44
+		coal=160
+	}
+	provinces={
+		702 822 862 880 891 894 3687 3697 3802 3824 3847 3880 3897 6705 6845 6869 6885 6899 9662 9804 9820 9836 11648 11785 11799 11800 11817 
+	}
+	manpower=9631346
+	buildings_max_level_factor=1
+	state_category=megalopolis
+	local_supplies=0
+}

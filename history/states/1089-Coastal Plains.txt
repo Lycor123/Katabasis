@@ -4,8 +4,9 @@ state={
 	state_category = city
 
 	history = {
-		owner = USD
+		owner = BLA
 		add_core_of = USD
+		add_core_of = BLA
 	}
 
 	provinces={

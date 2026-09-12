@@ -4,46 +4,93 @@
  USA_ADJ: "American"
 
  MTA: "Montana"
- MTA_DEF: "Montana"
+ MTA_DEF: "the State of Montana"
  MTA_ADJ: "Montanan"
 
  DAK: "Dakota"
- DAK_DEF: "Dakota"
+ DAK_DEF: "the State of Dakota"
  DAK_ADJ: "Dakotan"
  
  MIN: "Minnesota"
- MIN_DEF: "Minnesota"
+ MIN_DEF: "the State of Minnesota"
  MIN_ADJ: "Minnesotan"
 
  OHI: "Ohio"
- OHI_DEF: "Ohio"
+ OHI_DEF: "the State of Ohio"
  OHI_ADJ: "Ohioan"
 
  WSC: "Wisconsin"
- WSC_DEF: "Wisconsin"
+ WSC_DEF: "the State of Wisconsin"
  WSC_ADJ: "Wisconsinites"
 
  IND: "Indiana"
- IND_DEF: "Indiana"
+ IND_DEF: "the State of Indiana"
  IND_ADJ: "Indianan"
 
  NJE: "New Jersey"
- NJE_DEF: "New Jersey"
+ NJE_DEF: "the State of New Jersey"
  NJE_ADJ: "New Jerseyan"
 
  HAW: "Hawaii"
- HAW_DEF: "Hawaii"
+ HAW_DEF: "the State of Hawaii"
  HAW_ADJ: "Hawaiian"
 
  USD: "United States of Dixie"
- USD_DEF: "Dixieland"
+ USD_DEF: "the United States of Dixie"
  USD_ADJ: "Southerner"
 
- BLA: "Black Panthers"
- BLA_DEF: "Black Panthers"
- BLA_ADJ: "Black Panther"
+ BLA: "Black Liberation Army"
+ BLA_DEF: "the Black Liberation Army"
+ BLA_ADJ: "African-American"
 
  NOI: "Nation of Islam"
- NOI_DEF: "Nation of Islam"
+ NOI_DEF: "the Nation of Islam"
  NOI_ADJ: "Nation of Islam"
 
+ MEM: "Trill Memphis Cult"
+ MEM_DEF: "the Memphis Cult"
+ MEM_ADJ: "Memphis Cultist"
+
+ NYK: "New York"
+ NYK_DEF: "the State of New York"
+ NYK_ADJ: "New Yorker"
+
+ NYC: "New York City"
+ NYC_DEF: "the New York City Police"
+ NYK_ADJ: "New Yorker"
+
+ PEN: "Pennsylvania"
+ PEN_DEF: "the State of Pennsylvania"
+ PEN_ADJ: "Pennsylvanian"
+
+ VIR: "Virginia Commune"
+ VIR_DEF: "the Virginia Commune"
+ VIR_ADJ: "Virginian"
+
+ MIC: "Michigan"
+ MIC_DEF: "the State of Michigan"
+ MIC_ADJ: "Michigander"
+
+ DET: "Detroit"
+ DET_DEF: "the City of Detroit"
+ DET_ADJ: "Detroiter"
+ 
+ APP: "Appalachian Temple"
+ APP_DEF: "the Appalachian Temple"
+ APP_ADJ: "Appalachian"
+
+ ASA: "Efri Nes"
+ ASA_DEF: "the Odinist Fellowship"
+ ASA_ADJ: "Odinist"
+
+ SAT: "Army of Saturn"
+ SAT_DEF: "the Army of Saturn"
+ SAT_ADJ: "African-American"
+
+ UBC: "United Black Christians"
+ UBC_DEF: "the United Black Chrisitans"
+ UBC_ADJ: "African-American"
+
+ KNT: "Kentucky"
+ KNT_DEF: "the State of Kentucky"
+ KNT_ADJ: "Kentuckian"

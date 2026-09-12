@@ -1,0 +1,14 @@
+state={
+	id=369
+	name="STATE_369"
+	resources={
+		coal=56
+	}
+	provinces={
+		1445 4402 4988 6696 6974 10586 10727 12568 12709 
+	}
+	manpower=2614588
+	buildings_max_level_factor=1
+	state_category=city
+	local_supplies=0
+}

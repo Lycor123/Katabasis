@@ -3,8 +3,12 @@ state={
 	name="STATE_1085"
 	state_category = rural
 	history = {
-		owner = USD
+		owner = SAT
 		add_core_of = USD
+		add_core_of = SAT
+		victory_points = {
+			10753 1
+		}
 	}
 	provinces={
 		4510 7464 8110 10410 10753 11717 12328 

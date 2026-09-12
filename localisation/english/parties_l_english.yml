@@ -3,7 +3,7 @@
 # democracy
  democratic: "Democratic"
  democratic_noun: "Democracy"
- democratic_desc: "Democratic State"
+ democratic_desc: "Democratic Country"
  conservatism: "Conservatism"
  conservatism_noun: "Conservative"
  conservatism_desc: "Conservatism is an ideology which seeks to preserve and promote traditional cultural values and institutions. Opposing radical change, conservatives generally advocate for moderate reforms and a return to tradition."
@@ -16,7 +16,7 @@
  federalism: "Federalism"
  federalism_desc: "Federalism is a political concept that divides the power of governance for both central and state-level governments. Federalists often advocate for the creation of semi-autonomous regional states that are still beholden to a federal government."
  confederalism: "Confederalism"
- confederalism_desc: "Confederalism is a political concept that supports the formation of a confederation, a union of sovereign states united for a common cause. As opposed to a Federation, Confederations seek to preserve its member states' independence, with the central government being beholden to them."
+ confederalism_desc: "Confederalism is a political concept that supports the formation of a confederation, a union of sovereign states united for a common cause. As opposed to a Federation, Confederations seek to preserve its member states' independence, with the central government being largely beholden to them."
  constitutional_monarchy: "Constitutional Monarchy"
  constitutional_monarchy_desc: "Constitutional Monarchy is a form of monarchy in which the monarch exercises power in accordance with a constitution. Though it has a monarch, it exists only in name and mostly serves as a unifying symbol."
  christian_democracy: "Christian Democracy"
@@ -59,7 +59,7 @@
  posadism: "Posadism"
  posadism_desc: "Posadism is an offshoot of trotskyism that adds ufology and other concepts like communication with dolphins. Notably with theories of ufology, posadism supports nuclear conflict between capitalism and communism to destroy capitalism for the working class."
  narcocommunism: "Narcocommunism"
- narcocommunism_desc: "Narcocommunism started as a rhetorical insult from conservative politicians to accuse left-wing politicians of colluding with drug cartels. Post rapture, certain cartels have used their position to almost become workers unions of their own sort, mixing cartel state policies with communist rhetoric."
+ narcocommunism_desc: "Narcocommunism started as a rhetorical insult from conservative politicians to accuse left-wing politicians of colluding with drug cartels. Post-rapture, certain cartels have used their position to almost become workers unions of their own sort, mixing cartel state policies with communist rhetoric."
  buddhist_socialism: "Buddhist Socialism"
  buddhist_socialism_desc: "Buddhist Socialism combines the socioeconomic theory of socialism with the spiritual and moral principles of Buddhism. Buddhist Socialism is sometimes theocratic in practice but isn't necessarily so."
 
@@ -76,9 +76,17 @@
  # dixie parties
  USD_democratic_party: "GOP (D)"
  USD_democratic_party_long: "Grand Old Party (Dixie)"
- USD_communism_party: "Patriot Party"
- USD_communism_party_long: "Patriot Party"
+ USD_communism_party: "Rainbow Coalition"
+ USD_communism_party_long: "Rainbow Coalition"
  USD_neutrality_party: "SCV"
  USD_neutrality_party_long: "Sons of Confederate Veterans"
  USD_fascism_party: "KKK"
  USD_fascism_party_long: "Ku Klux Klan"
+ # BLA parties
+ BLA_communism_party: "BPP"
+ BLA_communism_party_long: "Black Panther Party"
+ BLA_fascism_party: "BPP (NA)"
+ BLA_fascism_party_long: "Black Panther Party (New-Afrikanists)"
+ # NOI parties
+ NOI_fascism_party: "NOI"
+ NOI_fascism_party_long: "Nation of Islam"

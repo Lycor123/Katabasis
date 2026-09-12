@@ -12,4 +12,5 @@ tags={
 }
 name="Katabasis: 20 Years After The Rapture"
 supported_version="1.19.2.0"
-replace_path="events"
+replace_path="common/events"
+replace_path = "common/bookmarks"

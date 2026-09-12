@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = USD
+		owner = UBC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 3
@@ -26,6 +26,7 @@ state={
 			}
 		}
 		add_core_of = USD
+		add_core_of = UBC
 		victory_points = {
 			1843 5 
 		}

@@ -1,0 +1,16 @@
+state={
+	id=1103
+	name="STATE_1103"
+	state_category = town
+	history = {
+		owner = APP
+		add_core_of = APP
+		add_core_of = PEN
+	}
+	provinces={
+		847 3850 6872 9789 11758 11769 11789 12405 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}
