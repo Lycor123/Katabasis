@@ -568,7 +568,7 @@ guiTypes = {
 
 			gridboxType = {
 				name ="bookmarks_grid"
-				position = { x = 0 y = 0 }
+				position = { x = 130 y = 0 }
 				size = { width = 100%% height = 100%% }
 				slotsize = { width = 260 height = 0 }
 				add_horizontal = yes
