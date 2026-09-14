@@ -51,6 +51,17 @@ set_convoys = 0
 #	}
 #set_grand_doctrine = grand_battleplan
 #}
+if = {
+	limit = { has_start_date < 1985.1.2 }
+	declare_war_on = {
+		target = PEN
+		type = civil_war
+	}
+}
+
+
+
+
 
 set_politics = {
 	ruling_party = neutrality

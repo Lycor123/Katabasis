@@ -6,11 +6,11 @@ state={
 		owner = VIR
 		add_core_of = VIR
 		victory_points = {
-			3957 40 
+			13414 40 
 		}
 	}
 	provinces={
-		3957 11892 
+		3957 11892 13414
 	}
 	manpower=0
 	buildings_max_level_factor=1

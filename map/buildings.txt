@@ -67215,3 +67215,6 @@
 1105;special_project_facility_spawn;1508.00;10.90;1510.00;0.01;0
 1105;special_project_facility_spawn;1493.00;10.55;1506.00;1.72;0
 1105;rocket_site_spawn;1491.00;10.60;1504.00;1.95;0
+1102;supply_node;1603.00;9.80;1525.00;0.22;0
+1102;bunker;1605.00;9.65;1523.00;3.42;0
+1102;special_project_facility_spawn;1605.00;9.65;1523.00;3.90;0
