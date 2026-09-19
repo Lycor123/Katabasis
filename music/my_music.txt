@@ -1,0 +1,67 @@
+music_station = "my_custom_station"
+
+music = {
+    song = "katabasis_ost_the_might_of_industry"
+    chance = {
+        base = 1
+        modifier = {
+            factor = 3
+            has_war = yes
+        }
+    }
+}
+
+music = {
+    song = "katabasis_ost_a_painful_reality"
+    chance = {
+        base = 1
+        modifier = {
+            factor = 2
+            has_war = yes
+        }
+    }
+}
+
+music = {
+    song = "katabasis_ost_wrathful_arms_raise_your_fists"
+    chance = {
+        base = 1
+    }
+}
+
+music = {
+    song = "katabasis_ost_pale_horse"
+    chance = {
+        base = 1
+    }
+}
+
+
+music = {
+    song = "katabasis_ost_years_of_mourning"
+    chance = {
+        base = 1
+        modifier = {
+            factor = 2.5
+            has_war = no
+        }
+    }
+}
+
+music = {
+    song = "maintheme_loading"
+    chance = {
+        base = 1
+        modifier = {
+            factor = 2.5
+            has_war = no
+        }
+    }
+}
+
+music = {
+    song = "mainthene"
+    chance = {
+        base = 1
+    }
+}
