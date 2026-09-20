@@ -206,7 +206,7 @@ ideologies = {
 			fascism_ideology = {
 			}
 
-			esotericism = {
+			occultism = {
 			}
 
 			clerical_fascism = {
@@ -234,9 +234,6 @@ ideologies = {
 			}
 
 			buddhist_nationalism = {
-			}
-
-			nativism = {
 			}
 
 			ultranationalism = {
@@ -316,7 +313,7 @@ ideologies = {
 			buddhist_theocracy = {
 			}
 
-			nationalism = {
+			civic_nationalism = {
 			}
 
 			technocracy = {

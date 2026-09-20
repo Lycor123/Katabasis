@@ -1,0 +1,19 @@
+characters = {
+
+    SAT_sun_ra = {
+
+        name = SAT_sun_ra
+        
+        portraits = {
+            civilian = {
+                large = GFX_portrait_sun_ra
+            }
+        }
+
+        country_leader = {
+            ideology = warlordism
+            desc = sun_ra_desc
+            expire = "1999.1.1"
+        }
+    }
+}

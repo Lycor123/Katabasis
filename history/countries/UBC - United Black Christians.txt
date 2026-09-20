@@ -59,6 +59,8 @@ if = {
 	}
 }
 
+add_ideas = the_south_asunder
+
 
 
 
@@ -76,6 +78,7 @@ set_popularities = {
 	fascism = 0
 }
 
+recruit_character = UBC_yahweh_ben_yahweh
 
 
 

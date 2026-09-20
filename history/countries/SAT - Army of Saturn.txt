@@ -59,23 +59,25 @@ if = {
 	}
 }
 
-
+add_ideas = the_south_asunder
 
 
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 10
-	democratic = 10
-	communism = 75
+	neutrality = 95
+	democratic = 0
+	communism = 0
 	fascism = 5
 }
 
+
+recruit_character = SAT_sun_ra
 
 
 

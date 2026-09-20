@@ -1,0 +1,19 @@
+characters = {
+
+    USA_ted_kennedy = {
+
+        name = USA_ted_kennedy
+        
+        portraits = {
+            civilian = {
+                large = GFX_portrait_ted_kennedy
+            }
+        }
+
+        country_leader = {
+            ideology = liberalism
+            desc = ted_kennedy_desc
+            expire = "1999.1.1"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_idea_the_south_asunder"
+        texturefile = "gfx/interface/ideas/idea_the_south_asunder.tga"
+    }
+}
