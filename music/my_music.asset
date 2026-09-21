@@ -1,0 +1,43 @@
+music = {
+    name = "katabasis_ost_a_painful_reality"
+    file = "katabasis_ost_a_painful_reality.ogg"
+    volume = 0.65
+}
+
+music = {
+    name = "maintheme"
+    file = "maintheme.ogg"
+    volume = 0.65
+}
+
+
+music = {
+    name = "katabasis_ost_heavenly_awakening"
+    file = "katabasis_ost_heavenly_awakening.ogg"
+    volume = 0.65
+}
+
+
+music = {
+    name = "katabasis_ost_pale_horse"
+    file = "katabasis_ost_pale_horse.ogg"
+    volume = 0.65
+}
+
+music = {
+    name = "katabasis_ost_the_might_of_industry"
+    file = "katabasis_ost_the_might_of_industry.ogg"
+    volume = 0.65
+}
+
+music = {
+    name = "katabasis_ost_wrathful_arms_raise_your_fists"
+    file = "katabasis_ost_wrathful_arms_raise_your_fists.ogg"
+    volume = 0.65
+}
+
+music = {
+    name = "katabasis_ost_years_of_mourning"
+    file = "katabasis_ost_years_of_mourning.ogg"
+    volume = 0.65
+}
