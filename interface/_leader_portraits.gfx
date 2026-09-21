@@ -1,6 +1,18 @@
 spriteTypes = {
     spriteType = {
         name = "GFX_portrait_george_wallace"
-        texturefile = "gfx/leaders/USD/GeorgeWallace.tga"
+        texturefile = "gfx/leaders/USD/George Wallace.tga"
+    }
+    spriteType = {
+        name = "GFX_portrait_sun_ra"
+        texturefile = "gfx/leaders/SAT/Sun Ra.tga"
+    }
+    spriteType = {
+        name = "GFX_portrait_yahweh_ben_yahweh"
+        texturefile = "gfx/leaders/UBC/Yahweh ben Yahweh.tga"
+    }
+    spriteType = {
+        name = "GFX_portrait_ted_kennedy"
+        texturefile = "gfx/leaders/USA/Ted Kennedy.tga"
     }
 }

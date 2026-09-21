@@ -12,4 +12,7 @@ tags={
 }
 name="Katabasis: 20 Years After The Rapture"
 supported_version="1.19.2.0"
-path="mod/Katabasis"
+path="C:/Users/Windows/Documents/Paradox Interactive/Hearts of Iron IV/mod/Katabasis"
+replace_path="common/events"
+replace_path = "common/bookmarks"
+replace_path = "common/characters"

@@ -1,0 +1,19 @@
+characters = {
+
+    UBC_yahweh_ben_yahweh = {
+
+        name = UBC_yahweh_ben_yahweh
+        
+        portraits = {
+            civilian = {
+                large = GFX_portrait_yahweh_ben_yahweh
+            }
+        }
+
+        country_leader = {
+            ideology = christian_theocracy
+            desc = yahweh_ben_yahweh_desc
+            expire = "1999.1.1"
+        }
+    }
+}

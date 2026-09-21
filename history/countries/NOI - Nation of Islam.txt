@@ -60,7 +60,7 @@ if = {
 	}
 }
 
-
+add_ideas = the_south_asunder
 
 
 set_politics = {

@@ -1,0 +1,23 @@
+state={
+	id=1111
+	name="STATE_1111"
+	state_category = metropolis
+	history = {
+		owner = USD
+		add_core_of = USD
+		victory_points = {
+			10337 10
+		}
+		buildings = {
+			10337 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces={
+		10337 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

@@ -1,4 +1,4 @@
-﻿capital = 1090
+﻿capital = 368
 
 #oob = "COG_1936"
 
@@ -51,6 +51,9 @@ set_convoys = 0
 #	}
 #set_grand_doctrine = grand_battleplan
 #}
+add_ideas = the_south_asunder
+add_ideas = jim_crow_laws
+add_ideas = disorganized_army
 
 set_politics = {
 	ruling_party = democratic
@@ -60,9 +63,9 @@ set_politics = {
 }
 set_popularities = {
 	neutrality = 30
-	democratic = 55
+	democratic = 50
 	communism = 5
-	fascism = 10
+	fascism = 15
 }
 
 recruit_character = USD_george_wallace

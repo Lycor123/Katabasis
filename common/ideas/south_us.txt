@@ -1,0 +1,14 @@
+ideas = {
+	country = {
+		the_south_asunder = {
+			picture = "GFX_idea_the_south_asunder"
+			modifier = {
+				stability_factor = -0.25
+				political_power_gain = -0.1
+				conscription_factor = -0.05
+				army_attack_factor = 0.15
+				army_defence_factor = 0.1
+			}
+		}
+	}
+}
