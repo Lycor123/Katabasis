@@ -1,0 +1,11 @@
+state={
+	id=1117
+	name="STATE_1117"
+	state_category = wasteland
+	provinces={
+		13155 13199 13200 13201 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}
