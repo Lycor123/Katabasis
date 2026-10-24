@@ -2,6 +2,10 @@ state={
 	id=1112
 	name="STATE_1112"
 	state_category = large_town
+	history = {
+		owner = DAV
+		add_core_of = DAV
+	}
 	provinces={
 		5022 6798 7836 7981 10861 12875 
 	}

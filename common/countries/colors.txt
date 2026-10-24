@@ -122,3 +122,58 @@ RIG = {
     color = rgb { 0 0 128 }
     color_ui = rgb { 0 0 128 }
 }
+
+TEX = {
+    color = rgb { 176  175  251 }
+    color_ui = rgb { 176  175  251 }
+}
+
+TRY = {
+    color = rgb { 224  49  26 }
+    color_ui = rgb { 224  49  26 }
+}
+
+BAH = {
+    color = rgb { 204 255 204 }
+    color_ui = rgb { 204 255 204 }
+}
+
+DAV = {
+    color = rgb { 255  224  117 }
+    color_ui = rgb { 255  224  117 }
+}
+
+ODS = {
+    color = rgb { 102  196  255 }
+    color_ui = rgb { 102  196  255 }
+}
+
+DAL = {
+    color = rgb { 62  50  194 }
+    color_ui = rgb { 62  50  194 }
+}
+
+SAN = {
+    color = rgb { 63 74 128 }
+    color_ui = rgb { 63 74 128 }
+}
+
+AUT = {
+    color = rgb { 86 120 244 }
+    color_ui = rgb { 86 120 244 }
+}
+
+FWT = {
+    color = rgb { 227 208 165 }
+    color_ui = rgb { 227 208 165 }
+}
+
+ILL = {
+    color = rgb { 255 227 137 }
+    color_ui = rgb { 255 227 137 }
+}
+
+CHC = {
+    color = rgb { 215 215 213 }
+    color_ui = rgb { 215 215 213 }
+}

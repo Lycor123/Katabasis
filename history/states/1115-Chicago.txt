@@ -1,0 +1,21 @@
+state={
+	id=1115
+	name="STATE_1115"
+
+	state_category = megalopolis
+
+	history = {
+		owner = CHC
+		add_core_of = CHC
+		victory_points = {
+			9450 30.0
+		}
+	}
+
+	provinces={
+		9450 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}
