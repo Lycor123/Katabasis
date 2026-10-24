@@ -21,7 +21,7 @@
 
  WSC: "Wisconsin"
  WSC_DEF: "the State of Wisconsin"
- WSC_ADJ: "Wisconsinites"
+ WSC_ADJ: "Wisconsinite"
 
  IND: "Indiana"
  IND_DEF: "the State of Indiana"
@@ -39,17 +39,17 @@
  USD_DEF: "the United States of Dixie"
  USD_ADJ: "Southerner"
 
- BLA: "Black Liberation Army"
- BLA_DEF: "the Black Liberation Army"
+ BLA: "Black Panthers"
+ BLA_DEF: "the Black Panthers"
  BLA_ADJ: "African-American"
 
  NOI: "Nation of Islam"
  NOI_DEF: "the Nation of Islam"
- NOI_ADJ: "Nation of Islam"
+ NOI_ADJ: "African-American"
 
  MEM: "Trill Memphis Cult"
  MEM_DEF: "the Memphis Cult"
- MEM_ADJ: "Memphis Cultist"
+ MEM_ADJ: "African-American"
 
  NYK: "New York"
  NYK_DEF: "the State of New York"
@@ -98,3 +98,47 @@
  RIG: "Republic of the Rio Grande"
  RIG_DEF: "the Republic of the Rio Grande"
  RIG_ADJ: "Rio Grandese"
+
+ TEX: "Texas"
+ TEX_DEF: "the Republic of Texas"
+ TEX_ADJ: "Texan"
+
+ TRY: "Trinity"
+ TRY_DEF: "the State of Trinity"
+ TRY_ADJ: "Texan"
+
+ DAV: "Branch Davidians"
+ DAV_DEF: "the Branch Davidians"
+ DAV_ADJ: "Branch Davidian"
+
+ ODS: "Odessa"
+ ODS_DEF: "the City of Odessa"
+ ODS_ADJ: "Texan"
+
+ DAL: "Dallas"
+ DAL_DEF: "the City of Dallas"
+ DAL_ADJ: "Texan"
+
+ SAN: "San Antonio"
+ SAN_DEF: "the City of San Antonio"
+ SAN_ADJ: "Texan"
+
+ AUT: "Austin"
+ AUT_DEF: "the City of Austin"
+ AUT_ADJ: "Texan"
+
+ FWT: "Fort Worth"
+ FWT_DEF: "the City of Fort Worth"
+ FWT_ADJ: "Texan"
+
+ ILL: "Illinois"
+ ILL_DEF: "the State of Illinois"
+ ILL_ADJ: "Illinoisan"
+
+ CHC: "Chicago"
+ CHC_DEF: "the City of Chicago"
+ CHC_ADJ: "Chicagoan"
+
+ BAH: "The Bahamas"
+ BAH_DEF: "the Commonwealth of the Bahamas"
+ BAH_ADJ: "Bahamian"

@@ -3,6 +3,8 @@ state={
 	name="STATE_1113"
 	state_category = city
 	history = {
+		owner = SAN
+		add_core_of = SAN
 		victory_points = {
 			12782 1 
 		}

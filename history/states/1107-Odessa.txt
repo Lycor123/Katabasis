@@ -2,6 +2,10 @@ state={
 	id=1107
 	name="STATE_1107"
 	state_category = town
+	history = {
+		owner = ODS
+		add_core_of = ODS
+	}
 	provinces={
 		1998 4955 
 	}

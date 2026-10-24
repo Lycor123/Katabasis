@@ -3,6 +3,8 @@ state={
 	name="STATE_1109"
 	state_category = metropolis
 	history = {
+		owner = DAL
+		add_core_of = DAL
 		victory_points = {
 			3960 10 
 		}

@@ -11,8 +11,7 @@ tags={
 	"Sound"
 }
 name="Katabasis: 20 Years After The Rapture"
-supported_version="1.19.2.0"
+supported_version="1.19.3.0"
 replace_path="common/events"
 replace_path = "common/bookmarks"
 replace_path = "common/characters"
-replace_path = "music"
