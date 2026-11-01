@@ -1,0 +1,18 @@
+state={
+	id=1124
+	name="STATE_1124"
+	state_category = town
+	history = {
+		owner = POS
+		add_core_of = POS
+		victory_points = {
+			7834 1
+		}
+	}
+	provinces={
+		1352 4757 4811 7834 7892 9802 12513 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

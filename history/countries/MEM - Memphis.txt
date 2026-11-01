@@ -76,7 +76,7 @@ set_popularities = {
 	fascism = 95
 }
 
-
+recruit_character = MEM_dj_spanish_fly
 
 
 

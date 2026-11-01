@@ -1,0 +1,23 @@
+state={
+	id=1135
+	name="STATE_1135"
+	state_category = metropolis
+	history = {
+		buildings = {
+			infrastructure = 2
+			# hoovah dam
+			4799 = {
+				dam_mountain = 1
+			}
+		}
+		victory_points = {
+			4799 10 # Las Vegas
+		}
+	}
+	provinces={
+		4799 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

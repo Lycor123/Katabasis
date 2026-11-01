@@ -1,0 +1,19 @@
+characters = {
+
+    BLA_huey_p_newton = {
+
+        name = BLA_huey_p_newton
+        
+        portraits = {
+            civilian = {
+                large = GFX_portrait_huey_p_newton
+            }
+        }
+
+        country_leader = {
+            ideology = marxism_leninism
+            desc = huey_p_newton_desc
+            expire = "1999.1.1"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+state={
+	id=1125
+	name="STATE_1125"
+	state_category = rural
+	history = {
+		owner = CUS
+		add_core_of = CUS
+	}
+	provinces={
+		1809 7780 11772 12570 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

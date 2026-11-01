@@ -1,0 +1,24 @@
+state={
+	id=1139
+	name="STATE_1139"
+	state_category = megalopolis
+	history = {
+		buildings = {
+			9671 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			9713 10 
+		}
+		victory_points = {
+			9671 25
+		}
+	}
+	provinces={
+		9671 3678 6699 9713 11658
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

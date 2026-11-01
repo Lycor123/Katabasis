@@ -1,0 +1,15 @@
+state={
+	id=1130
+	name="STATE_1130"
+	state_category = rural
+	history = {
+		owner = DES
+		add_core_of = DES
+	}
+	provinces={
+		7888 12561 12633 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=376
+	name="STATE_376"
+	resources={
+		oil=8
+		aluminium=30
+		coal=5
+	}
+	provinces={
+		3883 4975 5044 8070 10867 12552 12684 12791 
+	}
+	manpower=423316
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=0
+}

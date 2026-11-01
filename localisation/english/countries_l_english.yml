@@ -15,8 +15,8 @@
  MIN_DEF: "the State of Minnesota"
  MIN_ADJ: "Minnesotan"
 
- OHI: "Ohio"
- OHI_DEF: "the State of Ohio"
+ OHI: "Promethean Republic of Ohio"
+ OHI_DEF: "the Promethean Republic of Ohio"
  OHI_ADJ: "Ohioan"
 
  WSC: "Wisconsin"
@@ -142,3 +142,35 @@
  BAH: "The Bahamas"
  BAH_DEF: "the Commonwealth of the Bahamas"
  BAH_ADJ: "Bahamian"
+
+ WTN: "Weather Underground"
+ WTN_DEF: "the Weather Underground"
+ WTN_ADJ: "Weatherman"
+
+ POS: "Posse Comitatus"
+ POS_DEF: "the Posse Comitatus"
+ POS_ADJ: "Posse Comitatus"
+
+ AOR: "Army of the Righteous"
+ AOR_DEF: "the Army of the Righteous"
+ AOR_ADJ: "Christian Militia"
+
+ CUS: "Central United States Federal Command"
+ CUS_DEF: "the CUSFC"
+ CUS_ADJ: "United States Armed Forces"
+
+ OKL: "Choctaw Nation"
+ OKL_DEF: "the Choctaw Nation"
+ OKL_ADJ: "Choctaw"
+
+ NMX: "Plurinational Republic of New Mexico"
+ NMX_DEF: "the Plurinational Republic of New Mexico"
+ NMX_ADJ: "New Mexican"
+
+ DES: "Mormon State of Deseret"
+ DES_DEF: "the Mormon State of Deseret"
+ DES_ADJ: "Mormon"
+
+ ARI: "Ranger Republic of Arizona"
+ ARI_DEF: "the Ranger Republic of Arizona"
+ ARI_ADJ: "Arizonan"

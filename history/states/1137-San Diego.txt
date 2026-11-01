@@ -1,0 +1,11 @@
+state={
+	id=1137
+	name="STATE_1137"
+	state_category = metropolis
+	provinces={
+		823 1562 7517 7986 12374 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

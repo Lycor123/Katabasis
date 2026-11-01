@@ -1,0 +1,15 @@
+state={
+	id=1119
+	name="STATE_1119"
+	state_category = rural
+	history = {
+		owner = AOR
+		add_core_of = AOR
+	}
+	provinces={
+		1683 12586 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

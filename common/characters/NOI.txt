@@ -1,0 +1,19 @@
+characters = {
+
+    NOI_louis_farrakhan = {
+
+        name = NOI_louis_farrakhan
+        
+        portraits = {
+            civilian = {
+                large = GFX_portrait_louis_farrakhan
+            }
+        }
+
+        country_leader = {
+            ideology = ethnonationalism
+            desc = louis_farrakhan_desc
+            expire = "1999.1.1"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+
+state={
+	id=378
+	name="STATE_378"
+	manpower = 5677248
+	
+	state_category = large_city
+	
+	resources={
+		oil=120 # was: 350 #2025-12-12: was: 180
+		aluminium=8 # was: 14
+	}
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 2
+			industrial_complex = 6
+			dockyard = 2
+			air_base = 10
+			1562 = {
+				naval_base = 10
+			}
+			9671 = {
+				naval_base = 4
+			}
+			610 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = USA
+		victory_points = {
+			1562 15 
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 7
+			}
+		}
+	}
+
+	provinces={
+		610 710 766 768 781 941 986 1432 1601 3588 3644 3677 3784 3840 4331 4518 6482 6665 6694 6772 6861 6876 6881 7667 9637 9697 9730 9855 9911 10159 10483 11698 11763 11876 
+	}
+
+	local_supplies=0.0 
+}

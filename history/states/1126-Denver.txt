@@ -1,0 +1,18 @@
+state={
+	id=1126
+	name="STATE_1126"
+	state_category = large_town
+	history = {
+		owner = WTN
+		add_core_of = WTN
+		victory_points = {
+			1827 5 
+		}
+	}
+	provinces={
+		1827 10588 12642 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=392
+	name="STATE_392"
+	manpower = 2470938
+	
+	state_category = city
+
+	history={
+		owner = AOR
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 4
+		}
+		add_core_of = AOR
+		victory_points = {
+			1770 3 
+		}
+
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 5
+			}
+		}
+
+	}
+
+	provinces={
+		1678 1770 4691 10666 11788 11971 12418 12646 
+	}
+
+	local_supplies=6.0 
+}
