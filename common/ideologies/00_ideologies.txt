@@ -239,6 +239,9 @@ ideologies = {
 			ultranationalism = {
 			}
 
+			ethnonationalism = {
+			}
+
 			homonationalism = {
 			}
 

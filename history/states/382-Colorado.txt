@@ -1,0 +1,28 @@
+
+state={
+	id=382
+	name="STATE_382"
+	manpower = 1035790
+	resources={
+		oil=14 # was: 20
+		coal = 7 # initial distribution = with infra 14 / 1280 total
+	}
+	
+	state_category = town
+
+	history={
+		owner = DES
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = DES
+
+	}
+
+	provinces={
+		868 1658 3869 6887 7684 7999 9792 10535 12627  
+	}
+
+	local_supplies=8.0 
+}

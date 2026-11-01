@@ -79,7 +79,7 @@ set_popularities = {
 	fascism = 20
 }
 
-
+recruit_character = BLA_huey_p_newton
 
 
 

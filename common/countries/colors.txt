@@ -177,3 +177,43 @@ CHC = {
     color = rgb { 215 215 213 }
     color_ui = rgb { 215 215 213 }
 }
+
+WTN = {
+    color = rgb { 179 27 26 }
+    color_ui = rgb { 179 27 26 }
+}
+
+POS = {
+    color = rgb { 179 179 179 }
+    color_ui = rgb { 179 179 179 }
+}
+
+AOR = {
+    color = rgb { 45 50 139 }
+    color_ui = rgb { 45 50 139 }
+}
+
+CUS = {
+    color = rgb { 34 0 255 }
+    color_ui = rgb { 34 0 255 }
+}
+
+OKL = {
+    color = rgb { 190 134 70 }
+    color_ui = rgb { 190 134 70 }
+}
+
+NMX = {
+    color = rgb { 255 205 0 }
+    color_ui = rgb { 255 205 0 }
+}
+
+DES = {
+    color = rgb { 97 109 255 }
+    color_ui = rgb { 97 109 255 }
+}
+
+ARI = {
+    color = rgb { 255 130 41 }
+    color_ui = rgb { 255 130 41 }
+}

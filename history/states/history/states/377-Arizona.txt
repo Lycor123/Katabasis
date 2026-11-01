@@ -1,0 +1,16 @@
+state={
+	id=377
+	name="STATE_377"
+	resources={
+		steel=20
+		oil=5
+		aluminium=8
+	}
+	provinces={
+		850 6897 7821 10573 12765 
+	}
+	manpower=435572
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=8
+}

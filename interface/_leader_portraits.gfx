@@ -15,4 +15,16 @@ spriteTypes = {
         name = "GFX_portrait_ted_kennedy"
         texturefile = "gfx/leaders/USA/Ted Kennedy.tga"
     }
+    spriteType = {
+        name = "GFX_portrait_louis_farrakhan"
+        texturefile = "gfx/leaders/NOI/Louis Farrakhan.tga"
+    }
+    spriteType = {
+        name = "GFX_portrait_huey_p_newton"
+        texturefile = "gfx/leaders/BLA/Huey Percy Newton.tga"
+    }
+    spriteType = {
+        name = "GFX_portrait_dj_spanish_fly"
+        texturefile = "gfx/leaders/MEM/DJ Spanish Fly.tga"
+    }
 }

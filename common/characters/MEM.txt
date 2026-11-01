@@ -1,0 +1,19 @@
+characters = {
+
+    MEM_dj_spanish_fly = {
+
+        name = MEM_dj_spanish_fly
+        
+        portraits = {
+            civilian = {
+                large = GFX_portrait_dj_spanish_fly
+            }
+        }
+
+        country_leader = {
+            ideology = occultism
+            desc = dj_spanish_fly_desc
+            expire = "1999.1.1"
+        }
+    }
+}

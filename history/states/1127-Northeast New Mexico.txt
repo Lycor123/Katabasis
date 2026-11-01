@@ -1,0 +1,15 @@
+state={
+	id=1127
+	name="STATE_1127"
+	state_category = rural
+	history = {
+		owner = NMX
+		add_core_of = NMX
+	}
+	provinces={
+		1738 2102 10642 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}
